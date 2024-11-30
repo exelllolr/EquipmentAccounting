@@ -1,5 +1,6 @@
 ﻿using System.Linq;
 using System.Windows;
+using System.Windows.Navigation;
 using Machine_Accounting.Models;
 using Machine_Accounting.Widows;
 
@@ -30,8 +31,8 @@ namespace MachineAccounting.Views
 
             if (user != null)
             {
-                MessageBox.Show("Добро пожаловать!");
-                // Открываем главное окно или другую форму после успешного логина
+                MessageBox.Show($"Добро пожаловать!");
+                // Открываем главное окно с передачей объекта пользователя
                 MainWindow mainWindow = new MainWindow(user);
                 mainWindow.Show();
                 this.Close();
@@ -41,7 +42,14 @@ namespace MachineAccounting.Views
                 MessageBox.Show("Неверный логин или пароль.");
             }
         }
-       
+
+        private void BHelp_Click(object sender, RoutedEventArgs e)
+        {
+            // Переход в MainWindow без проверки пользователя
+            MainWindow mainWindow = new MainWindow(null); // Передаем null, так как пользователь не авторизован
+            mainWindow.Show();
+            this.Close();
+        }
     }
 }
 

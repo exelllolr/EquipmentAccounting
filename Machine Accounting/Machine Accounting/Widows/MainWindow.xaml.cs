@@ -1,45 +1,41 @@
-﻿using Machine_Accounting.Models;
+﻿using MachineAccounting.Views;
 using System.Windows;
 
 namespace Machine_Accounting.Widows
 {
-   
     public partial class MainWindow : Window
     {
-        private readonly Users _user; // Хранит информацию о текущем пользователе
-
-        public MainWindow(Users user)
+        public MainWindow(Models.Users user)
         {
             InitializeComponent();
-            _user = user; // Инициализируем пользователя
         }
-        // Обработчик для кнопки "Добавить пользователя"
+
+        // Открытие окна для добавления пользователя
         private void AddUser_Click(object sender, RoutedEventArgs e)
         {
-            // Логика для добавления пользователя
-            MessageBox.Show("Добавление пользователя...");
+            var addUserWindow = new AddUserWindow(); // Предполагается, что это окно уже создано
+            addUserWindow.ShowDialog(); // Открыть модально
         }
 
-        // Обработчик для кнопки "Редактировать профиль"
+        // Открытие окна для редактирования профиля
         private void EditProfile_Click(object sender, RoutedEventArgs e)
         {
-            // Логика для редактирования профиля
-            MessageBox.Show("Редактирование профиля...");
+            var editProfileWindow = new EditProfileWindow(); // Предполагается, что это окно уже создано
+            editProfileWindow.ShowDialog();
         }
 
-        // Обработчик для кнопки "Управление техникой"
+        // Открытие окна управления техникой
         private void ManageEquipment_Click(object sender, RoutedEventArgs e)
         {
-            // Логика для управления техникой
-            MessageBox.Show("Управление техникой...");
+            var manageEquipmentWindow = new ManageEquipmentWindow(); // Предполагается, что это окно уже создано
+            manageEquipmentWindow.ShowDialog();
         }
 
-        // Обработчик для кнопки "Просмотр техники"
+        // Открытие окна просмотра техники
         private void ViewEquipment_Click(object sender, RoutedEventArgs e)
         {
-            // Логика для просмотра техники
-            MessageBox.Show("Просмотр техники...");
+            var equipmentWindow = new EquipmentWindow(); // Предполагается, что это окно уже создано
+            equipmentWindow.ShowDialog();
         }
     }
 }
-    

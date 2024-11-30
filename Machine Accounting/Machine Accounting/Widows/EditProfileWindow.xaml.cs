@@ -17,6 +17,10 @@ namespace MachineAccounting.Views
             FullNameTextBox.Text = _currentUser.FullName;
         }
 
+        public EditProfileWindow()
+        {
+        }
+
         private void Save_Click(object sender, RoutedEventArgs e)
         {
             // Сохранение изменений
