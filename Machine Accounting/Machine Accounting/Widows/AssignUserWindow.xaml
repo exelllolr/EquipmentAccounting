@@ -1,0 +1,25 @@
+﻿<Window x:Class="MachineAccounting.Views.AssignUserWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Закрепить технику за пользователем" Height="300" Width="400">
+    <Grid Margin="10">
+        <StackPanel>
+            <!-- Заголовок -->
+            <TextBlock Text="Выберите технику:" FontWeight="Bold" Margin="0,0,0,5" />
+            <!-- ComboBox для выбора техники -->
+            <ComboBox Name="EquipmentComboBox" Height="30" Margin="0,0,0,15" />
+
+            <!-- Заголовок -->
+            <TextBlock Text="Выберите пользователя:" FontWeight="Bold" Margin="0,0,0,5" />
+            <!-- ComboBox для выбора пользователя -->
+            <ComboBox Name="UserComboBox" Height="30" Margin="0,0,0,15" />
+
+            <!-- Кнопки -->
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,20,0,0">
+                <Button Content="Сохранить" Width="100" Height="30" Margin="10,0,0,0" Click="Save_Click" />
+                <Button Content="Отмена" Width="100" Height="30" Margin="10,0,0,0" Click="Cancel_Click" />
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
+

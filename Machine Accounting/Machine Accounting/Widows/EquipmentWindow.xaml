@@ -1,0 +1,16 @@
+﻿<Window x:Class="MachineAccounting.Views.EquipmentWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Список техники" Height="400" Width="600">
+    <Grid Margin="10">
+        <DataGrid Name="EquipmentDataGrid" AutoGenerateColumns="False" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Название" Binding="{Binding Name}" />
+                <DataGridTextColumn Header="Модель" Binding="{Binding Model}" />
+                <DataGridTextColumn Header="Серийный номер" Binding="{Binding SerialNumber}" />
+                <DataGridTextColumn Header="Статус" Binding="{Binding Status}" />
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
+

@@ -1,0 +1,141 @@
+C:\Карина Work\Machine Accounting\Machine Accounting\obj\Debug\Machine Accounting.csproj.AssemblyReference.cache
+C:\Карина Work\Machine Accounting\Machine Accounting\obj\Debug\App.g.cs
+C:\Карина Work\Machine Accounting\Machine Accounting\obj\Debug\Machine Accounting_Content.g.cs
+C:\Карина Work\Machine Accounting\Machine Accounting\obj\Debug\Machine Accounting_MarkupCompile.cache
+C:\Карина Work\Machine Accounting\Machine Accounting\obj\Debug\Machine Accounting_MarkupCompile.lref
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Machine Accounting.exe.config
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Machine Accounting.exe
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Machine Accounting.pdb
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\CommunityToolkit.Mvvm.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\EntityFramework.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\EntityFramework.SqlServer.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\MaterialDesignColors.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\MaterialDesignExtensions.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.Identity.Client.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Newtonsoft.Json.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\System.Buffers.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\System.Collections.Immutable.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\System.Data.SqlClient.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\System.Memory.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\System.Numerics.Vectors.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\CommunityToolkit.Mvvm.pdb
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\CommunityToolkit.Mvvm.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\EntityFramework.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\EntityFramework.SqlServer.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\MaterialDesignColors.pdb
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\MaterialDesignExtensions.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.Identity.Client.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Newtonsoft.Json.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\System.Buffers.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\System.Collections.Immutable.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\System.Data.SqlClient.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\System.Memory.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\System.Numerics.Vectors.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\ar-DZ\MaterialDesignExtensions.resources.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\cs\MaterialDesignExtensions.resources.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\cs-CZ\MaterialDesignExtensions.resources.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\de\MaterialDesignExtensions.resources.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\fr\MaterialDesignExtensions.resources.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\fr-FR\MaterialDesignExtensions.resources.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\pt\MaterialDesignExtensions.resources.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\pt-BR\MaterialDesignExtensions.resources.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\Ru\MaterialDesignExtensions.resources.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\ru-ru\MaterialDesignExtensions.resources.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\uz-Latn-UZ\MaterialDesignExtensions.resources.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Карина Work\Machine Accounting\Machine Accounting\obj\Debug\LoginWindow.g.cs
+C:\Карина Work\Machine Accounting\Machine Accounting\obj\Debug\LoginWindow.baml
+C:\Карина Work\Machine Accounting\Machine Accounting\obj\Debug\Machine Accounting.g.resources
+C:\Карина Work\Machine Accounting\Machine Accounting\obj\Debug\Machine_Accounting.Properties.Resources.resources
+C:\Карина Work\Machine Accounting\Machine Accounting\obj\Debug\Machine Accounting.csproj.GenerateResource.cache
+C:\Карина Work\Machine Accounting\Machine Accounting\obj\Debug\Machine Accounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Карина Work\Machine Accounting\Machine Accounting\obj\Debug\Machine Accounting.csproj.CoreCompileInputs.cache
+C:\Карина Work\Machine Accounting\Machine Accounting\obj\Debug\Machine .31B700F8.Up2Date
+C:\Карина Work\Machine Accounting\Machine Accounting\obj\Debug\Machine Accounting.exe
+C:\Карина Work\Machine Accounting\Machine Accounting\obj\Debug\Machine Accounting.pdb
+C:\Карина Work\Machine Accounting\Machine Accounting\obj\Debug\Widows\EquipmentWindow.baml
+C:\Карина Work\Machine Accounting\Machine Accounting\obj\Debug\Widows\MainWindow.baml
+C:\Карина Work\Machine Accounting\Machine Accounting\obj\Debug\Widows\EquipmentWindow.g.cs
+C:\Карина Work\Machine Accounting\Machine Accounting\obj\Debug\Widows\MainWindow.g.cs
+C:\Карина Work\Machine Accounting\Machine Accounting\obj\Debug\Widows\AddEquipmentWindow.g.cs
+C:\Карина Work\Machine Accounting\Machine Accounting\obj\Debug\Widows\AddEquipmentWindow.baml
+C:\Карина Work\Machine Accounting\Machine Accounting\obj\Debug\Widows\AddUserWindow.baml
+C:\Карина Work\Machine Accounting\Machine Accounting\obj\Debug\Widows\EditProfileWindow.baml
+C:\Карина Work\Machine Accounting\Machine Accounting\obj\Debug\Widows\ManageEquipmentWindow.baml
+C:\Карина Work\Machine Accounting\Machine Accounting\obj\Debug\Widows\AddUserWindow.g.cs
+C:\Карина Work\Machine Accounting\Machine Accounting\obj\Debug\Widows\EditProfileWindow.g.cs
+C:\Карина Work\Machine Accounting\Machine Accounting\obj\Debug\Widows\ManageEquipmentWindow.g.cs
+C:\Карина Work\Machine Accounting\Machine Accounting\obj\Debug\Widows\AssignUserWindow.baml
+C:\Карина Work\Machine Accounting\Machine Accounting\obj\Debug\Widows\AssignUserWindow.g.cs
+C:\Карина Work\Machine Accounting\Machine Accounting\obj\Debug\App.baml
