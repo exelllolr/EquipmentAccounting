@@ -13,28 +13,28 @@ namespace Machine_Accounting.Widows
         // Открытие окна для добавления пользователя
         private void AddUser_Click(object sender, RoutedEventArgs e)
         {
-            var addUserWindow = new AddUserWindow(); // Предполагается, что это окно уже создано
+            var addUserWindow = new AddUserWindow(); 
             addUserWindow.ShowDialog(); // Открыть модально
         }
 
         // Открытие окна для редактирования профиля
         private void EditProfile_Click(object sender, RoutedEventArgs e)
         {
-            var editProfileWindow = new EditProfileWindow(); // Предполагается, что это окно уже создано
+            var editProfileWindow = new EditProfileWindow(); 
             editProfileWindow.ShowDialog();
         }
 
         // Открытие окна управления техникой
         private void ManageEquipment_Click(object sender, RoutedEventArgs e)
         {
-            var manageEquipmentWindow = new ManageEquipmentWindow(); // Предполагается, что это окно уже создано
+            var manageEquipmentWindow = new ManageEquipmentWindow(); 
             manageEquipmentWindow.ShowDialog();
         }
 
         // Открытие окна просмотра техники
         private void ViewEquipment_Click(object sender, RoutedEventArgs e)
         {
-            var equipmentWindow = new EquipmentWindow(); // Предполагается, что это окно уже создано
+            var equipmentWindow = new EquipmentWindow(); 
             equipmentWindow.ShowDialog();
         }
     }

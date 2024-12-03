@@ -3,15 +3,31 @@
   "WorkspaceRootPath": "C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\machine accounting\\widows\\manageequipmentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|solutionrelative:machine accounting\\widows\\manageequipmentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|c:\\\u043A\u0430\u0440\u0438\u043D\u0430 work\\machine accounting\\machine accounting\\widows\\addequipmentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|solutionrelative:machine accounting\\widows\\addequipmentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|c:\\\u043A\u0430\u0440\u0438\u043D\u0430 work\\machine accounting\\machine accounting\\widows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\machine accounting\\widows\\addequipmentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|solutionrelative:machine accounting\\widows\\addequipmentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\machine accounting\\widows\\adduserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|solutionrelative:machine accounting\\widows\\adduserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\machine accounting\\widows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|solutionrelative:machine accounting\\widows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|c:\\\u043A\u0430\u0440\u0438\u043D\u0430 work\\machine accounting\\machine accounting\\widows\\equipmentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|c:\\\u043A\u0430\u0440\u0438\u043D\u0430 work\\machine accounting\\machine accounting\\widows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|solutionrelative:machine accounting\\widows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|c:\\\u043A\u0430\u0440\u0438\u043D\u0430 work\\machine accounting\\machine accounting\\widows\\manageequipmentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|solutionrelative:machine accounting\\widows\\manageequipmentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\machine accounting\\widows\\equipmentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|solutionrelative:machine accounting\\widows\\equipmentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -23,19 +39,11 @@
       "RelativeMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|solutionrelative:machine accounting\\widows\\assignuserwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\machine accounting\\widows\\addequipmentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|solutionrelative:machine accounting\\widows\\addequipmentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|c:\\\u043A\u0430\u0440\u0438\u043D\u0430 work\\machine accounting\\machine accounting\\widows\\adduserwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\machine accounting\\widows\\adduserwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|solutionrelative:machine accounting\\widows\\adduserwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|c:\\\u043A\u0430\u0440\u0438\u043D\u0430 work\\machine accounting\\machine accounting\\widows\\adduserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|solutionrelative:machine accounting\\widows\\adduserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|c:\\\u043A\u0430\u0440\u0438\u043D\u0430 work\\machine accounting\\machine accounting\\widows\\equipmentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\machine accounting\\widows\\equipmentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|solutionrelative:machine accounting\\widows\\equipmentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -70,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,33 +86,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\Machine Accounting\\Widows\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Machine Accounting\\Widows\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\Machine Accounting\\Widows\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Machine Accounting\\Widows\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T20:10:30.479Z",
+              "DocumentIndex": 0,
+              "Title": "AddEquipmentWindow.xaml",
+              "DocumentMoniker": "C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\Machine Accounting\\Widows\\AddEquipmentWindow.xaml",
+              "RelativeDocumentMoniker": "Machine Accounting\\Widows\\AddEquipmentWindow.xaml",
+              "ToolTip": "C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\Machine Accounting\\Widows\\AddEquipmentWindow.xaml",
+              "RelativeToolTip": "Machine Accounting\\Widows\\AddEquipmentWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T15:55:16.626Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EquipmentWindow.xaml.cs",
-              "DocumentMoniker": "C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\Machine Accounting\\Widows\\EquipmentWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Machine Accounting\\Widows\\EquipmentWindow.xaml.cs",
-              "ToolTip": "C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\Machine Accounting\\Widows\\EquipmentWindow.xaml.cs",
-              "RelativeToolTip": "Machine Accounting\\Widows\\EquipmentWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T20:10:27.039Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "AddUserWindow.xaml.cs",
               "DocumentMoniker": "C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\Machine Accounting\\Widows\\AddUserWindow.xaml.cs",
               "RelativeDocumentMoniker": "Machine Accounting\\Widows\\AddUserWindow.xaml.cs",
@@ -112,12 +106,11 @@
               "RelativeToolTip": "Machine Accounting\\Widows\\AddUserWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T20:09:13.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T20:09:13.823Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "AddUserWindow.xaml",
               "DocumentMoniker": "C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\Machine Accounting\\Widows\\AddUserWindow.xaml",
               "RelativeDocumentMoniker": "Machine Accounting\\Widows\\AddUserWindow.xaml",
@@ -129,19 +122,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "EquipmentWindow.xaml",
               "DocumentMoniker": "C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\Machine Accounting\\Widows\\EquipmentWindow.xaml",
               "RelativeDocumentMoniker": "Machine Accounting\\Widows\\EquipmentWindow.xaml",
               "ToolTip": "C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\Machine Accounting\\Widows\\EquipmentWindow.xaml",
               "RelativeToolTip": "Machine Accounting\\Widows\\EquipmentWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-30T09:47:44.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T09:47:44.147Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "DbModel.edmx [Diagram1]",
               "DocumentMoniker": "C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\Machine Accounting\\Models\\DbModel.edmx",
               "RelativeDocumentMoniker": "Machine Accounting\\Models\\DbModel.edmx",
@@ -152,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "AddEquipmentWindow.xaml.cs",
               "DocumentMoniker": "C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\Machine Accounting\\Widows\\AddEquipmentWindow.xaml.cs",
               "RelativeDocumentMoniker": "Machine Accounting\\Widows\\AddEquipmentWindow.xaml.cs",
@@ -165,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "ManageEquipmentWindow.xaml.cs",
               "DocumentMoniker": "C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\Machine Accounting\\Widows\\ManageEquipmentWindow.xaml.cs",
               "RelativeDocumentMoniker": "Machine Accounting\\Widows\\ManageEquipmentWindow.xaml.cs",
@@ -178,7 +170,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\Machine Accounting\\Widows\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Machine Accounting\\Widows\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\Machine Accounting\\Widows\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Machine Accounting\\Widows\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T20:10:30.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\Machine Accounting\\Widows\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Machine Accounting\\Widows\\MainWindow.xaml",
+              "ToolTip": "C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\Machine Accounting\\Widows\\MainWindow.xaml",
+              "RelativeToolTip": "Machine Accounting\\Widows\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T15:54:28.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EquipmentWindow.xaml.cs",
+              "DocumentMoniker": "C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\Machine Accounting\\Widows\\EquipmentWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Machine Accounting\\Widows\\EquipmentWindow.xaml.cs",
+              "ToolTip": "C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\Machine Accounting\\Widows\\EquipmentWindow.xaml.cs",
+              "RelativeToolTip": "Machine Accounting\\Widows\\EquipmentWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T20:10:27.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\Machine Accounting\\App.xaml",
               "RelativeDocumentMoniker": "Machine Accounting\\App.xaml",
@@ -190,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "AssignUserWindow.xaml.cs",
               "DocumentMoniker": "C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\Machine Accounting\\Widows\\AssignUserWindow.xaml.cs",
               "RelativeDocumentMoniker": "Machine Accounting\\Widows\\AssignUserWindow.xaml.cs",
@@ -198,12 +227,11 @@
               "RelativeToolTip": "Machine Accounting\\Widows\\AssignUserWindow.xaml.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAAAD8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T13:22:27.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T13:22:27.725Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "EditProfileWindow.xaml.cs",
               "DocumentMoniker": "C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\Machine Accounting\\Widows\\EditProfileWindow.xaml.cs",
               "RelativeDocumentMoniker": "Machine Accounting\\Widows\\EditProfileWindow.xaml.cs",
@@ -211,12 +239,11 @@
               "RelativeToolTip": "Machine Accounting\\Widows\\EditProfileWindow.xaml.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T11:27:34.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T11:27:34.893Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "ClassDiagram1.cd",
               "DocumentMoniker": "C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\Machine Accounting\\ClassDiagram1.cd",
               "RelativeDocumentMoniker": "Machine Accounting\\ClassDiagram1.cd",
@@ -227,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "LoginWindow.xaml",
               "DocumentMoniker": "C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\Machine Accounting\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "Machine Accounting\\LoginWindow.xaml",
@@ -238,19 +265,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "EditProfileWindow.xaml",
               "DocumentMoniker": "C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\Machine Accounting\\Widows\\EditProfileWindow.xaml",
               "RelativeDocumentMoniker": "Machine Accounting\\Widows\\EditProfileWindow.xaml",
               "ToolTip": "C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\Machine Accounting\\Widows\\EditProfileWindow.xaml",
               "RelativeToolTip": "Machine Accounting\\Widows\\EditProfileWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-30T09:39:18.81Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T09:39:18.81Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ManageEquipmentWindow.xaml",
               "DocumentMoniker": "C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\Machine Accounting\\Widows\\ManageEquipmentWindow.xaml",
               "RelativeDocumentMoniker": "Machine Accounting\\Widows\\ManageEquipmentWindow.xaml",
