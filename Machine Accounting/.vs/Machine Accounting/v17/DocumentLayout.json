@@ -19,11 +19,11 @@
       "RelativeMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|solutionrelative:machine accounting\\widows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|c:\\\u043A\u0430\u0440\u0438\u043D\u0430 work\\machine accounting\\machine accounting\\widows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\machine accounting\\widows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|solutionrelative:machine accounting\\widows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|c:\\\u043A\u0430\u0440\u0438\u043D\u0430 work\\machine accounting\\machine accounting\\widows\\manageequipmentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\machine accounting\\widows\\manageequipmentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42D22527-17DA-4A14-B417-1B37E3FECB46}|Machine Accounting\\Machine Accounting.csproj|solutionrelative:machine accounting\\widows\\manageequipmentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -117,8 +117,7 @@
               "ToolTip": "C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\Machine Accounting\\Widows\\AddUserWindow.xaml",
               "RelativeToolTip": "Machine Accounting\\Widows\\AddUserWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-02T20:09:10.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T20:09:10.434Z"
             },
             {
               "$type": "Document",
@@ -152,8 +151,7 @@
               "RelativeToolTip": "Machine Accounting\\Widows\\AddEquipmentWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T11:24:16.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T11:24:16.139Z"
             },
             {
               "$type": "Document",
@@ -165,8 +163,7 @@
               "RelativeToolTip": "Machine Accounting\\Widows\\ManageEquipmentWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T12:59:35.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T12:59:35.218Z"
             },
             {
               "$type": "Document",
@@ -178,8 +175,7 @@
               "RelativeToolTip": "Machine Accounting\\Widows\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T20:10:30.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T20:10:30.479Z"
             },
             {
               "$type": "Document",
@@ -190,8 +186,7 @@
               "ToolTip": "C:\\\u041A\u0430\u0440\u0438\u043D\u0430 Work\\Machine Accounting\\Machine Accounting\\Widows\\MainWindow.xaml",
               "RelativeToolTip": "Machine Accounting\\Widows\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-03T15:54:28.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T15:54:28.727Z"
             },
             {
               "$type": "Document",
